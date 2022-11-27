@@ -17,3 +17,4 @@ Here is the set of currently published packages that make up the aptos-sdk:
 * aptos-json-rpc-types
 * aptos-client
 * aptos-sdk
+Move - sui - sei - 0xL1
